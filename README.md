@@ -331,6 +331,7 @@ Cut down on data collection and protect your sensitive personal information, hea
 - [Security First - Umbrella](https://secfirst.org/umbrella/) - Umbrella is the only security handbook you'll ever need in a free, open source app. It's up-to-date information you can trust. And it's always in your pocket
 - [Matweb.info](https://matweb.info/) - Remove Metadata The file you see is just the tip of the iceberg. Remove the hidden metadata with MAT2
 - [Metacleaner.com](https://metacleaner.com/) - MetaCleaner helps you stay anonymous Clean your files MetaData online
+- [metadata remover](https://metadataremover.org)Entfernen Sie ganz einfach alle Informationen auf den Bildern, um Ihre Sicherheit und Privatsphäre zu schützen.
 - [Image Scrubber](https://everestpipkin.github.io/image-scrubber/) - This is a tool for anonymizing photographs taken at protests. It will remove identifying metadata (Exif data) from photographs, and also allow you to selectively blur parts of the image to cover faces and other identifiable information
 - [View Exif data online, remove Exif online](http://www.verexif.com/en/) - View and remove Exif online
 - [Bitcoinprivacy.guide](https://bitcoinprivacy.guide/) - Bitcoin privacy guide a beginners guide to Bitcoin privacy
